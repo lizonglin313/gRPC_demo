@@ -34,7 +34,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\WorkPlace\Golang\gRPC_demo\server\simple_server" />
+      <recent name="D:\Coding\WorkPlace\Golang\gRPC_demo\client\simple_client" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build gRPC_demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">

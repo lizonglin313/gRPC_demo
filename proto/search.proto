@@ -1,13 +1,15 @@
-syntax = "proto3";
+syntax = "proto3";  // 明确的使用 proto3
 
 package proto;
 
+// 在当前目录下生成
 option go_package = "./";
 
 service SearchService {
     rpc Search(SearchRequest) returns (SearchResponse) {}
 }
 
+// 定义 发现 请求 消息 的格式
 message SearchRequest {
     string request = 1;
 }
